@@ -1,1 +1,93 @@
-{}
+{
+  "nav": {
+    "work": "Trabajo",
+    "services": "Servicios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Contratarme"
+  },
+  "hero": {
+    "badge": "Ingeniero Sr AI/ML",
+    "headline1": "Hassan Masood",
+    "headline2": "Ingeniero AI/ML",
+    "headline3": "Construyendo sistemas inteligentes que funcionan.",
+    "subtext": "Diseñando e implementando sistemas de IA de nivel empresarial — desde LLMs y pipelines RAG hasta arquitecturas multi-agente y visión por computadora.",
+    "cta_primary": "Ver Mi Trabajo",
+    "cta_secondary": "Ponte en Contacto",
+    "stat1": "Años de Experiencia",
+    "stat2": "Productos AI Implementados",
+    "stat3": "Entrega Más Rápida",
+    "award": "8+ Productos AI Empresariales Implementados"
+  },
+  "work": {
+    "label": "Proyectos",
+    "heading": "Trabajo Destacado",
+    "view_all": "Ver Todos los Proyectos"
+  },
+  "services": {
+    "label": "Servicios",
+    "heading": "Qué Hago",
+    "subtext": "Ingeniería de IA de extremo a extremo — desde investigación y prototipado hasta implementación en producción a escala empresarial.",
+    "brand": {
+      "title": "LLM e IA Generativa",
+      "desc": "Integraciones personalizadas de modelos de lenguaje grande, ingeniería de prompts, fine-tuning con LoRA/QLoRA, y pipelines de IA generativa listos para producción usando OpenAI, Anthropic y modelos de código abierto."
+    },
+    "web": {
+      "title": "RAG y Sistemas de Conocimiento",
+      "desc": "Pipelines de generación aumentada por recuperación con bases de datos vectoriales (Pinecone, Weaviate, pgvector), búsqueda semántica, recuperación híbrida e inteligencia de documentos para bases de conocimiento empresariales."
+    },
+    "motion": {
+      "title": "Arquitecturas Multi-Agente",
+      "desc": "Sistemas de agentes autónomos construidos con LangGraph, LangChain y AutoGen — orquestando flujos de trabajo complejos, uso de herramientas, memoria y toma de decisiones con intervención humana."
+    },
+    "dev": {
+      "title": "Visión por Computadora y MLOps",
+      "desc": "Modelos de detección de objetos, segmentación y clasificación implementados a escala. Pipelines completos de MLOps con Azure ML, Docker y CI/CD para servicio confiable de modelos en producción."
+    },
+    "": "Ingeniería de IA y ML"
+  },
+  "about": {
+    "label": "Antecedentes",
+    "heading": "3.5+ Años Implementando IA en Producción",
+    "para1": "Soy Hassan Masood, Ingeniero Sr AI/ML con base en Lahore. Me especializo en LLMs, pipelines RAG, arquitecturas multi-agente y visión por computadora — entregando impacto medible en productos empresariales en Datics AI.",
+    "para2": "He construido 8+ productos de IA aprovechando LangGraph, LangChain, LlamaIndex y el stack completo de IA de Azure. Me apasiona la ingeniería de prompts, fine-tuning y bases de datos vectoriales que potencian sistemas inteligentes a escala.",
+    "stat1": "Años de Experiencia",
+    "stat2": "Productos AI Construidos",
+    "stat3": "Satisfacción del Cliente",
+    "team_heading": "Construyamos Juntos",
+    "team_sub": "Abierto a colaborar en productos impulsados por IA y desafíos de ingeniería."
+  },
+  "testimonials": {
+    "label": "Testimonios",
+    "heading": "Confiado por Equipos",
+    "q1": "Hassan entregó un sistema RAG en producción en tiempo récord. La precisión de recuperación superó nuestras expectativas y el sistema ha funcionado sin problemas en producción durante seis meses.",
+    "a1": "Sarah Chen",
+    "r1": "CTO, Startup Fintech",
+    "q2": "El pipeline multi-agente que Hassan construyó redujo nuestro tiempo de procesamiento de documentos en un 70%. Su profundo conocimiento de LangGraph e ingeniería de prompts es excepcional.",
+    "a2": "James Okafor",
+    "r2": "Head of Engineering, HealthTech",
+    "q3": "Trabajar con Hassan fue como tener un arquitecto de IA senior en el equipo. Entendió nuestros objetivos comerciales y los tradujo en un sistema de IA robusto y escalable.",
+    "a3": "Priya Sharma",
+    "r3": "Product Director, Plataforma SaaS"
+  },
+  "contact": {
+    "label": "Contacto",
+    "heading": "Trabajemos Juntos",
+    "subtext": "¿Tienes un proyecto en mente? Hablemos sobre cómo la IA puede resolver tus desafíos de ingeniería más difíciles.",
+    "field_name": "Nombre",
+    "field_email": "Correo Electrónico",
+    "field_message": "Mensaje",
+    "placeholder_name": "Tu nombre",
+    "placeholder_email": "tu@email.com",
+    "placeholder_message": "Cuéntame sobre tu proyecto o idea...",
+    "submit": "Enviar Mensaje",
+    "success_title": "¡Mensaje Enviado!",
+    "success_sub": "Gracias por comunicarte — te responderé dentro de 24 horas."
+  },
+  "footer": {
+    "tagline": "Construyendo sistemas inteligentes que se lanzan.",
+    "rights": "© 2024 Hassan Masood. Todos los derechos reservados.",
+    "links_label": "Enlaces Rápidos",
+    "social_label": "Conectar"
+  }
+}

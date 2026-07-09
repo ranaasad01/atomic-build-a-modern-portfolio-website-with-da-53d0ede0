@@ -1,1 +1,93 @@
-{}
+{
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Hire Me"
+  },
+  "hero": {
+    "badge": "Sr AI/ML Engineer",
+    "headline1": "Hassan Masood",
+    "headline2": "AI/ML Engineer",
+    "headline3": "Building intelligent systems that ship.",
+    "subtext": "Designing and shipping production-grade AI systems — from LLMs and RAG pipelines to multi-agent architectures and computer vision.",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Get In Touch",
+    "stat1": "Years Experience",
+    "stat2": "AI Products Shipped",
+    "stat3": "Faster Delivery",
+    "award": "8+ Enterprise AI Products Shipped"
+  },
+  "work": {
+    "label": "Projects",
+    "heading": "Featured Work",
+    "view_all": "View All Projects"
+  },
+  "services": {
+    "label": "Services",
+    "heading": "What I Do",
+    "subtext": "End-to-end AI engineering — from research and prototyping to production deployment at enterprise scale.",
+    "brand": {
+      "title": "LLM & Generative AI",
+      "desc": "Custom large language model integrations, prompt engineering, fine-tuning with LoRA/QLoRA, and production-ready generative AI pipelines using OpenAI, Anthropic, and open-source models."
+    },
+    "web": {
+      "title": "RAG & Knowledge Systems",
+      "desc": "Retrieval-augmented generation pipelines with vector databases (Pinecone, Weaviate, pgvector), semantic search, hybrid retrieval, and document intelligence for enterprise knowledge bases."
+    },
+    "motion": {
+      "title": "Multi-Agent Architectures",
+      "desc": "Autonomous agent systems built with LangGraph, LangChain, and AutoGen — orchestrating complex workflows, tool use, memory, and human-in-the-loop decision making."
+    },
+    "dev": {
+      "title": "Computer Vision & MLOps",
+      "desc": "Object detection, segmentation, and classification models deployed at scale. Full MLOps pipelines with Azure ML, Docker, and CI/CD for reliable model serving in production."
+    },
+    "": "AI & ML Engineering"
+  },
+  "about": {
+    "label": "Background",
+    "heading": "3.5+ Years Shipping Production AI",
+    "para1": "I'm Hassan Masood, a Sr AI/ML Engineer based in Lahore. I specialize in LLMs, RAG pipelines, multi-agent architectures, and computer vision — delivering measurable impact across enterprise products at Datics AI.",
+    "para2": "I've built 8+ AI products leveraging LangGraph, LangChain, LlamaIndex, and Azure's full AI stack. I'm passionate about prompt engineering, fine-tuning, and vector databases that power intelligent systems at scale.",
+    "stat1": "Years Experience",
+    "stat2": "AI Products Built",
+    "stat3": "Client Satisfaction",
+    "team_heading": "Let's Build Together",
+    "team_sub": "Open to collaborating on AI-driven products and engineering challenges."
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "heading": "Trusted by Teams",
+    "q1": "Hassan delivered a production RAG system in record time. The retrieval accuracy exceeded our expectations and the system has been running flawlessly in production for six months.",
+    "a1": "Sarah Chen",
+    "r1": "CTO, Fintech Startup",
+    "q2": "The multi-agent pipeline Hassan built reduced our document processing time by 70%. His deep knowledge of LangGraph and prompt engineering is exceptional.",
+    "a2": "James Okafor",
+    "r2": "Head of Engineering, HealthTech",
+    "q3": "Working with Hassan felt like having a senior AI architect on the team. He understood our business goals and translated them into a robust, scalable AI system.",
+    "a3": "Priya Sharma",
+    "r3": "Product Director, SaaS Platform"
+  },
+  "contact": {
+    "label": "Contact",
+    "heading": "Let's Work Together",
+    "subtext": "Have a project in mind? Let's talk about how AI can solve your hardest engineering challenges.",
+    "field_name": "Name",
+    "field_email": "Email",
+    "field_message": "Message",
+    "placeholder_name": "Your name",
+    "placeholder_email": "your@email.com",
+    "placeholder_message": "Tell me about your project or idea...",
+    "submit": "Send Message",
+    "success_title": "Message Sent!",
+    "success_sub": "Thanks for reaching out — I'll get back to you within 24 hours."
+  },
+  "footer": {
+    "tagline": "Building intelligent systems that ship.",
+    "rights": "© 2024 Hassan Masood. All rights reserved.",
+    "links_label": "Quick Links",
+    "social_label": "Connect"
+  }
+}

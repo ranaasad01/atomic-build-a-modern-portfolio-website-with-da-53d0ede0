@@ -20,11 +20,15 @@ export default function LocaleProvider({ children }: { children: ReactNode }) {
     try {
       const s = localStorage.getItem("site_locale");
       if (s && LOCALES.includes(s)) setLocaleState(s);
-    } catch {}
+    } catch (_e) {
+      // ignore
+    }
   }, []);
   const setLocale = (l: string) => {
     setLocaleState(l);
-    try { localStorage.setItem("site_locale", l); } catch {}
+    try { localStorage.setItem("site_locale", l); } catch (_e) {
+      // ignore
+    }
   };
   const messages = MESSAGES[locale] || MESSAGES[DEFAULT_LOCALE] || {};
   return (
@@ -34,7 +38,7 @@ export default function LocaleProvider({ children }: { children: ReactNode }) {
         messages={messages}
         timeZone="UTC"
         onError={() => {}}
-        getMessageFallback={({ key }) => key.split(".").pop() || key}
+        getMessageFallback={({ key }: { key: string }) => key.split(".").pop() || key}
       >
         {children}
       </NextIntlClientProvider>
